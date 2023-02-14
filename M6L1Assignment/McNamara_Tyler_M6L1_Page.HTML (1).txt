@@ -1,0 +1,25 @@
+<!DOCTYPE html> 
+
+ <html>  
+
+<head> 
+
+<title>McNamara_Tyler_M6L1_Page</title> 
+
+ </head> <body style="background-color:Green;"> 
+
+<h1>TylerMcNamara</h1> 
+
+ <p>Really likes to sleep Three of my favorite things are:</p> 
+
+<ol><li><strong>Friends</strong></li> 
+
+ <li><em>Games</em></li> 
+
+<li style="color: Blue;">Pizza</li></ol> 
+
+ <center><img src="https://s-media-cache-ak0.pinimg.com/236x/11/10/4b/11104b813f4698b2458115184793e697.jpg"></center>
+ 
+ </body> 
+
+ </html> 
